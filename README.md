@@ -9,4 +9,7 @@ Input ---> Reserve Storage ---> Chip ---> Monitor & Limb & Printer/Material Make
 If No Material:
 Use The Limb (used for the AI)
 
+AI:
+By absorbing materials
+
 And simply it needs electric or something to power 
