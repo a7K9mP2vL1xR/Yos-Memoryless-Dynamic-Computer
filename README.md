@@ -12,4 +12,8 @@ Use The Limb (used for the AI)
 AI:
 moving and and searching to absorbing dust for Material but actually can be option/progammed/automation to choose it must be stopped or not
 
-And simply it needs electric or something to power 
+Material:
+Just Two is Dead Material And Electricity Material and created using A Machine inside that process it to making the material
+
+Power:
+And simply it needs electric or something for power 
